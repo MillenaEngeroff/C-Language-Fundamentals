@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <locale.h>// Imformar se é par ou impar
+#include <locale.h>// Imformar se Ã© par ou impar
 
 int main()
 {
@@ -11,11 +11,11 @@ int main()
     scanf ("%d", &num);
     if (num%2==0)
     {
-        printf("O número é par");
+        printf("O nÃºmero Ã© par");
     }
    else
     {
-       printf("O número é impar");
+       printf("O nÃºmero Ã© impar");
     }
     return 0;
 }
