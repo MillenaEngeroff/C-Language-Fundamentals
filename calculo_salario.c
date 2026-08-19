@@ -9,12 +9,12 @@ int main()
    setlocale (LC_ALL, "Portuguese");
    printf("Informe seu nome: \n");
    scanf ("%s", &nome);
-   printf ("Informe o número de carros vendidos: \n");
+   printf ("Informe o nÃºmero de carros vendidos: \n");
    scanf ("%f", &nCarros);
    printf ("Informe o valor total de vendas: \n");
    scanf ("%f", &tCarros);
    salTotal = 700 + (nCarros*80) + (tCarros*0.04);
-   printf (" \n Seu salário total é de: %.2f", salTotal);
+   printf (" \n Seu salÃ¡rio total Ã© de: %.2f", salTotal);
 
 
 
