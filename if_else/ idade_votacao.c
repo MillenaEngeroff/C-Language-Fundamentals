@@ -4,10 +4,10 @@
 
 /// Escreva um algoritmo que leia o ano de nascimento de uma pessoa,
 /// calcule e mostre sua idade ao final de 2023, e se neste mesmo
-/// período essa pessoa já terá idade para votar (mínimo de 16 anos),
-/// e para conseguir a carteira de habilitação (mínimo de 18 anos).
-/// Apresente as três saídas possíveis,
-/// e desconsidere a data em que ocorrerá a eleição.
+/// perÃ­odo essa pessoa jÃ¡ terÃ¡ idade para votar (mÃ­nimo de 16 anos),
+/// e para conseguir a carteira de habilitaÃ§Ã£o (mÃ­nimo de 18 anos).
+/// Apresente as trÃªs saÃ­das possÃ­veis,
+/// e desconsidere a data em que ocorrerÃ¡ a eleiÃ§Ã£o.
 
 int main()
 {
@@ -23,11 +23,11 @@ int main()
      }
      else if (idade >= 18)
      {
-         printf("\nIdade para tirar habilitação\n");
+         printf("\nIdade para tirar habilitaÃ§Ã£o\n");
      }
      else if (idade < 16)
      {
-         printf("\nSem idade para votar ou tirar habilitação\n");
+         printf("\nSem idade para votar ou tirar habilitaÃ§Ã£o\n");
      }
     return 0;
 }
