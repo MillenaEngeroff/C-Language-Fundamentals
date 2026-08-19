@@ -3,15 +3,15 @@
 #include <locale.h>
 
 
-///Escreva um algoritmo que receba como entrada um número n e,
-/// imprima na tela a tabuada desse número.
-/// Use uma estrutura de repetição com pós-condição.
+///Escreva um algoritmo que receba como entrada um nÃºmero n e,
+/// imprima na tela a tabuada desse nÃºmero.
+/// Use uma estrutura de repetiÃ§Ã£o com pÃ³s-condiÃ§Ã£o.
 
 int main()
 {
     int n, i;
     setlocale (LC_ALL, "Portuguese");
-    printf("Informe um número:");
+    printf("Informe um nÃºmero:");
     scanf("%d", &n);
 
     do
