@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 
-Exercício D:
+ExercÃ­cio D:
 Escreva um programa em C que leia os nomes de uma lista de convidados registrada no arquivo convidados.txt
-(assuma até 8 convidados, nomes de até 40 caracteres) e apresente esses nomes na tela, numerados (1, 2, 3...)
+(assuma atÃ© 8 convidados, nomes de atÃ© 40 caracteres) e apresente esses nomes na tela, numerados (1, 2, 3...)
 
 
 int main()
