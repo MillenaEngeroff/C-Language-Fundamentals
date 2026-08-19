@@ -12,11 +12,11 @@ int main()
 
     for (int i=0; i<5; i++)
     {
-        printf("Informe um número %d: ",i+1);
+        printf("Informe um nÃºmero %d: ",i+1);
         scanf("%d",&num[i]);
          soma+=num[i];
     }
 
-    printf("A soma dos números é:%d\n",soma);
+    printf("A soma dos nÃºmeros Ã©:%d\n",soma);
     return 0;
 }
