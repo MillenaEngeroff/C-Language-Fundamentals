@@ -34,8 +34,7 @@ The purpose of this repository is to:
 ---
 
 ## 🛠 Technologies
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- C Programming Language
-- Code Blocks
 
 ⭐ Thank you for visiting my repository!
