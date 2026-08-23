@@ -36,7 +36,7 @@ int main()
             indice2 = i;
         }
 
-        getchar(); // limpa o \n depois da idade
+        getchar(); 
 
         printf(" Informe a altura do atleta %d:\n", i + 1);
         scanf("%f", &atletas[i].altura);
@@ -47,7 +47,7 @@ int main()
             indice1 = i;
         }
 
-        getchar(); // limpa o \n depois da altura (faltava esse!)
+        getchar(); 
     }
 
     printf("Atleta mais alto: %s(%.2f m)\n", atletas[indice1].nome, atletas[indice1].altura);
